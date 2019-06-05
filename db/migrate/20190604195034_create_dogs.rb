@@ -1,5 +1,5 @@
 class CreateDogs < ActiveRecord::Migration
-  
+
   class CreateDogs < ActiveRecord::Migration
   def up
   end
@@ -7,4 +7,3 @@ class CreateDogs < ActiveRecord::Migration
   def down
   end
 end
-
